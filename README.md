@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[<img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" height="40em" align="center" alt="'elo" title="'elo"/>]()
+
+[<img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" height="100em" align="center" alt="'elo" title="'elo"/>]()
+
+😂 Working mostly on private repos :ok_hand:
