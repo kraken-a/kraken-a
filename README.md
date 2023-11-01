@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraken-a&show_icons=true&theme=cobalt&text_color=#433333&icon_color=#12eaac)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kraken-a&layout=compact&theme=cobalt)
+[![wakatime](https://wakatime.com/badge/user/018b8a51-e660-4d50-af98-300ad43916bc.svg)](https://wakatime.com/@018b8a51-e660-4d50-af98-300ad43916bc)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kraken-a)](https://github.com/anuraghazra/github-readme-stats)
