@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 😂 Working mostly on private repos :ok_hand:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraken-a&show_icons=true&theme=dark&border_color=#ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraken-a&show_icons=true&theme=dracula&title_color=)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kraken-a&layout=compact)
