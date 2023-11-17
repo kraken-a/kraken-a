@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraken-a&show_icons=true&theme=cobalt&text_color=#433333&icon_color=#12eaac)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kraken-a&layout=compact&theme=cobalt)
-[<img src="https://i.imgur.com/KuWSsLI.gif" height="130em" align="center" alt="'dance" title="'dance"/>]()
+
+smell ya later [<img src="https://i.imgur.com/KuWSsLI.gif" height="130em" align="center" alt="'dance" title="'dance"/>]()
