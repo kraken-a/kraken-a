@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/018b8a51-e660-4d50-af98-300ad43916bc.svg)](https://wakatime.com/@018b8a51-e660-4d50-af98-300ad43916bc)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veryfatkraken&v=2)](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://i.imgur.com/KuWSsLI.gif" height="130em" align="center" alt="'dance" title="'dance"/>]()
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veryfatkraken&v=2)](https://github.com/anuraghazra/github-readme-stats)[<img src="https://i.imgur.com/KuWSsLI.gif" height="130em" align="center" alt="'dance" title="'dance"/>]()
