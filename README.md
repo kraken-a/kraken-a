@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## [<img src="https://i.imgur.com/iRUqQx9.gif" height="30em" align="center" alt="yeet" title="'yeet"/>]() Working mostly on private repos :ok_hand:
 ### And these are basically some of my stats [<img src="https://i.imgur.com/baYRhbn.gif" height="90em" align="center" alt="point" title="point"/>]()
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veryfatkraken&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=McDumb&v=2)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/018b8a51-e660-4d50-af98-300ad43916bc.svg)](https://wakatime.com/@018b8a51-e660-4d50-af98-300ad43916bc)
 
 
