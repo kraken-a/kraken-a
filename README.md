@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 ## [<img src="https://i.imgur.com/iRUqQx9.gif" height="30em" align="center" alt="yeet" title="'yeet"/>]() Working mostly on private repos :ok_hand:
 ### And these are basically some of my stats [<img src="https://i.imgur.com/baYRhbn.gif" height="90em" align="center" alt="point" title="point"/>]()
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kraken-a" />
-</a>
+
 <a href="https://github.com/kraken-a/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
